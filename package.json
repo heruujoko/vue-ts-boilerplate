@@ -1,0 +1,14 @@
+{
+  "name": "vue-typescript-boilerplate",
+  "version": "2.0.0",
+  "license": "MIT",
+  "description": "VueJs boilerplate using Typescript, Vuex and Vue Router",
+  "author": "Bart van den Ende <info@bartvandenende.nl>",
+  "scripts": {
+    "docs": "cd docs && gitbook serve",
+    "docs:deploy": "bash ./deploy-docs.sh"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
